@@ -4,7 +4,7 @@
 
 An English-first, bilingual sample-management POC for product and design teams. Capture samples, find visual matches, collect feedback, and discover what your team wants to develop next.
 
-[简体中文](README.zh-CN.md) · [Quick start](#quick-start) · [Feature scope](docs/SCOPE.md) · [API guide](docs/API.md)
+[简体中文](README.zh-CN.md) · [Quick start](#quick-start) · [Requirements](docs/PRD.md) · [Feature scope](docs/SCOPE.md) · [API guide](docs/API.md)
 
 ![Samplio workspace: sample metrics, intake workflow, team favorites and the latest samples](docs/screenshots/02-dashboard.png)
 

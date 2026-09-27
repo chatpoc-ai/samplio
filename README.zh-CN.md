@@ -4,7 +4,7 @@
 
 面向产品与设计团队的中英文样品管理 POC：图片入库、样品检索、协同评审与喜欢度排名。默认英文，支持一键切换简体中文。
 
-[English](README.md) · [快速开始](#快速开始) · [功能边界](docs/SCOPE.md) · [API 文档](docs/API.md)
+[English](README.md) · [快速开始](#快速开始) · [需求要点（英文）](docs/PRD.md) · [功能边界](docs/SCOPE.md) · [API 文档](docs/API.md)
 
 ![中文工作台：样品统计、入库入口、团队偏好与最近入库](docs/screenshots/11-dashboard-zh.png)
 
